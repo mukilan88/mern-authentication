@@ -83,18 +83,18 @@ mern-authentication(project-name)/ <br />
 
 ### Frontend
 
-> <h4> 1) Vite </h4>Create a React project quickly. 
-> <h4> 2) Bootstrap </h4>CSS framework for styling.
-> <h4> 3) Axios </h4>HTTP client for making API requests.
-> <h4> 4) React-router-dom </h4>Routing library for React.
+<h4> 1) Vite </h4>Create a React project quickly. 
+<h4> 2) Bootstrap </h4>CSS framework for styling.
+<h4> 3) Axios </h4>HTTP client for making API requests.
+<h4> 4) React-router-dom </h4>Routing library for React.
 
 ### Backend
 
-> <h4> 1) Express </h4>Web framework for Node.js.
-> <h4> 2) Mongoose</h4>ODM (Object Data Modeling) library for MongoDB and Node.js. 
-> <h4> 3) Nodemon</h4>Utility that monitors for any changes in your source and automatically restarts your server. 
-> <h4> 4) Mongodb</h4>MongoDB driver for Node.js.
-> <h4> 5) Cors</h4>Middleware for enabling CORS (Cross-Origin Resource Sharing).
+<h4> 1) Express </h4>Web framework for Node.js.
+<h4> 2) Mongoose</h4>ODM (Object Data Modeling) library for MongoDB and Node.js. 
+<h4> 3) Nodemon</h4>Utility that monitors for any changes in your source and automatically restarts your server. 
+<h4> 4) Mongodb</h4>MongoDB driver for Node.js.
+<h4> 5) Cors</h4>Middleware for enabling CORS (Cross-Origin Resource Sharing).
 
 ## Run the Page
 
